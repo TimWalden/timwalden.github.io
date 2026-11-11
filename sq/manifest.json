@@ -1,1 +1,19 @@
-{"posts": []}
+{
+  "posts": [
+    {
+      "id": "2026-11-11-feed",
+      "date": "2026-11-11",
+      "kind": "feed",
+      "type": "image",
+      "files": [
+        "sq/posts/2026-11-11/feed.jpg"
+      ],
+      "caption": "Verkaufspost mit Cover (manuell gepostet)",
+      "status": "gepostet",
+      "ig_post_id": "18092466650265092",
+      "fb_post_id": "1475942118931806_122109133953533395",
+      "ig_posted_at": "2026-11-11T22:27:00+01:00",
+      "fb_posted_at": "2026-11-11T22:27:00+01:00"
+    }
+  ]
+}
