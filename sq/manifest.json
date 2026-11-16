@@ -310,11 +310,17 @@
       "files": [
         "sq/posts/2026-11-21/reel.mp4"
       ],
-      "caption": "In diesem Labor atmest du keine Raumluft. 🧪\n\nSchutzstufe 4 ist die höchste Sicherheitsstufe für Labore. Wer dort arbeitet, trägt einen Vollschutzanzug mit eigener Luftzufuhr. Dazu kommen Unterdruck, Schleusen und eine Chemiedusche beim Rausgehen. In Berlin betreibt das Robert Koch-Institut seit 2018 so ein Labor, unter anderem für Ebola- und Lassaviren.\n\nBerlin ist auch ein Schauplatz in meinem Thriller Stille Quelle. Ein unbekanntes Virus aus dem Amazonas, eine Botanikerin aus Heidelberg und eine Pflanze, die niemand beachtet. Echte Wissenschaft, geschrieben von einem Biologen.\n\nWürdest du da reingehen? Schreib 🧪 für ja oder 🚪 für nein.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#virologie #labor #berlin #stillequelle #wissenschaftsthriller",
+      "caption": "In diesem Labor atmest du keine Raumluft. 🧪\n\nSchutzstufe 4 ist die höchste Sicherheitsstufe für Labore. Wer dort arbeitet, trägt einen Vollschutzanzug mit eigener Luftzufuhr. Dazu kommen Unterdruck, Schleusen und eine Chemiedusche beim Rausgehen. In Berlin betreibt das Robert Koch-Institut seit 2018 so ein Labor, unter anderem für Ebola- und Lassaviren.\n\nBerlin ist auch ein Schauplatz in meinem Thriller Stille Quelle. Ein unbekanntes Virus aus dem Amazonas, eine Botanikerin aus Heidelberg und eine Pflanze, die niemand beachtet. Echte Wissenschaft, geschrieben von einem Biologen.\n\nWürdest du da reingehen? Schreib 🧪 für ja oder 🚪 für nein.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild & Stimme: KI-generiert)\n\n#virologie #labor #berlin #stillequelle #wissenschaftsthriller",
       "fb_caption": "In diesem Labor atmest du keine Raumluft. 🧪\n\nSchutzstufe 4 ist die höchste Sicherheitsstufe für Labore. Wer dort arbeitet, trägt einen Vollschutzanzug mit eigener Luftzufuhr. Dazu kommen Unterdruck, Schleusen und eine Chemiedusche beim Rausgehen. In Berlin betreibt das Robert Koch-Institut seit 2018 so ein Labor, unter anderem für Ebola- und Lassaviren.\n\nBerlin ist auch ein Schauplatz in meinem Thriller Stille Quelle. Ein unbekanntes Virus aus dem Amazonas, eine Botanikerin aus Heidelberg und eine Pflanze, die niemand beachtet. Echte Wissenschaft, geschrieben von einem Biologen.\n\nWürdest du da reingehen? Schreib 🧪 für ja oder 🚪 für nein.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#virologie #labor #berlin #stillequelle #wissenschaftsthriller",
       "status": "freigegeben",
       "fb_image": "sq/posts/2026-11-21/fb.jpg",
-      "manychat": false
+      "manychat": false,
+      "voiceover": true,
+      "voice_script": "In diesem Labor atmest du keine Raumluft. Schutzstufe vier, die höchste Sicherheitsstufe überhaupt. Vollschutzanzug, eigene Luftzufuhr, Unterdruck, Chemiedusche. In Berlin wird so an Ebola- und Lassaviren geforscht. Und Berlin ist ein Schauplatz dieses Thrillers. Stille Quelle. Jetzt auf Amazon.",
+      "sfx": [
+        "labor_atmo.mp3",
+        "herzschlag.mp3"
+      ]
     },
     {
       "id": "2026-11-21-story",
