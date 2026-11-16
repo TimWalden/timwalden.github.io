@@ -277,11 +277,18 @@
       "files": [
         "sq/posts/2026-11-20/reel.mp4"
       ],
-      "caption": "Es ist da. Stille Quelle als Hardcover. 📚\n\nFester Einband, gleiche Geschichte: eine Botanikerin, eine unscheinbare Pflanze, ein Virus aus dem Amazonas und eine Lüge, die jemand um jeden Preis verbergen will.\n\nFürs eigene Regal oder als Geschenk für alle, die Thriller mit echter Wissenschaft mögen. Hol dir Stille Quelle jetzt als Hardcover, Taschenbuch oder E-Book.\n\nKommentiere QUELLE, und ich schick dir den Link.\n\n(Bild: KI-generiert)\n\n#hardcover #neuerscheinung #thriller #stillequelle #buchgeschenk",
+      "caption": "Es ist da. Stille Quelle als Hardcover. 📚\n\nFester Einband, gleiche Geschichte: eine Botanikerin, eine unscheinbare Pflanze, ein Virus aus dem Amazonas und eine Lüge, die jemand um jeden Preis verbergen will.\n\nFürs eigene Regal oder als Geschenk für alle, die Thriller mit echter Wissenschaft mögen. Hol dir Stille Quelle jetzt als Hardcover, Taschenbuch oder E-Book.\n\nKommentiere QUELLE, und ich schick dir den Link.\n\n(Bild & Stimme: KI-generiert)\n\n#hardcover #neuerscheinung #thriller #stillequelle #buchgeschenk",
       "fb_caption": "Es ist da. Stille Quelle als Hardcover. 📚\n\nFester Einband, gleiche Geschichte: eine Botanikerin, eine unscheinbare Pflanze, ein Virus aus dem Amazonas und eine Lüge, die jemand um jeden Preis verbergen will.\n\nFürs eigene Regal oder als Geschenk für alle, die Thriller mit echter Wissenschaft mögen. Hol dir Stille Quelle jetzt als Hardcover, Taschenbuch oder E-Book.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#hardcover #neuerscheinung #thriller #stillequelle #buchgeschenk",
       "status": "freigegeben",
       "fb_image": "sq/posts/2026-11-20/fb.jpg",
-      "manychat": true
+      "manychat": true,
+      "voiceover": true,
+      "voice_script": "Es ist da. Stille Quelle als Hardcover. Eine Botanikerin. Eine unscheinbare Pflanze. Ein Virus aus dem Amazonas. Und eine Lüge, die jemand um jeden Preis verbergen will. Fürs eigene Regal oder als Geschenk. Stille Quelle. Jetzt auf Amazon.",
+      "sfx": [
+        "wald_atmo.mp3",
+        "buch.mp3",
+        "herzschlag.mp3"
+      ]
     },
     {
       "id": "2026-11-20-story",
