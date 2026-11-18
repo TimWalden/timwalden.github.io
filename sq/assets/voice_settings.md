@@ -21,3 +21,9 @@ Gilt für alle Reels ab 2026-11-16. Schlüssel und Voice-ID liegen im Claude-Pro
 - Kompressor + Limiter, Ziel −14 LUFS integriert, Peak ≤ −1,2 dBFS.
 - H.264 `-preset veryfast -crf 21`, AAC 160k, 1080×1920, 30 fps, < 20 MB.
 - Untertitel: genau eine Textebene, Satz für Satz, bleibt in den Pausen stehen; Schlusskarte (Cover + „Jetzt auf Amazon“) blendet mit Beginn der Pause vor „Stille Quelle“ ein, ohne Untertitel.
+
+## Mischung ohne Rauschen (seit 18.11.2026, Timos Wunsch)
+- Atmos sind nur zulässig, wenn sie klar erkennbar sind (Vögel, Regen, Wellen) und kein gleichmäßiges Breitbandrauschen, Brummen oder Pfeifen enthalten. Jede neue Datei per Spektrogramm (showspectrumpic) prüfen; durchgehende waagrechte Linien oder eine gleichmäßige „Rauschfläche“ = verwerfen.
+- Atmo höchstens −28 dB unter der Stimme mischen, mit Tiefpass (~8 kHz) und Hochpass (~80 Hz).
+- Prüfung am fertigen Reel: In jeder Sprechpause (silencedetect auf voice.mp3) muss der Mix leiser als −40 dBFS RMS sein. Sonst Atmo leiser oder weglassen. Lieber keine Atmo als Rauschen.
+- Lautheitsnormalisierung (loudnorm) nur auf die Stimme vor dem Mischen anwenden, nicht auf den fertigen Mix, damit Pausen nicht hochgezogen werden.
