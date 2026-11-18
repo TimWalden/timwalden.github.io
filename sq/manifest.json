@@ -232,12 +232,14 @@
       ],
       "caption": "Ein Satz im Kopf. Monate später ein Buch in der Hand. 📖\n\nSo ist Stille Quelle entstanden: von der ersten Frage über das Konzept und das Lektorat bis zum Probedruck. Und jetzt kommt das Hardcover dazu.\n\nWelche Folie überrascht dich? Schreib's mir.\n\nWenn du wissen willst, was aus dem einen Satz geworden ist: Mein Thriller wartet als E-Book, Taschenbuch oder Hardcover auf dich.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#autorenleben #selfpublishing #schreiben #stillequelle #bookstagram",
       "fb_caption": "Ein Satz im Kopf. Monate später ein Buch in der Hand. 📖\n\nSo ist Stille Quelle entstanden: von der ersten Frage über das Konzept und das Lektorat bis zum Probedruck. Und jetzt kommt das Hardcover dazu.\n\nWelche Folie überrascht dich? Schreib's mir.\n\nWenn du wissen willst, was aus dem einen Satz geworden ist: Mein Thriller wartet als E-Book, Taschenbuch oder Hardcover auf dich.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#autorenleben #selfpublishing #schreiben #stillequelle #bookstagram",
-      "status": "freigegeben",
+      "status": "gepostet",
       "manychat": false,
       "fb_image": "sq/posts/2026-11-18/fb.jpg",
       "fb_post_id": "1475942118931806_122111654031533395",
       "fb_posted_at": "2026-11-18T12:45:38+01:00",
-      "ig_error": "2026-11-18 create_carousel_post: \"Only photo or video can be accepted as media type.\" (jsDelivr-URLs @5394f30); Retry blockiert"
+      "ig_error": "2026-11-18 create_carousel_post: \"Only photo or video can be accepted as media type.\" (jsDelivr-URLs @5394f30); Retry blockiert → von Timo manuell gepostet",
+      "ig_post_id": "manuell",
+      "ig_posted_at": "2026-11-18T19:56:31+01:00"
     },
     {
       "id": "2026-11-18-story",
@@ -248,9 +250,11 @@
         "sq/posts/2026-11-18/story.jpg"
       ],
       "caption": "",
-      "status": "freigegeben",
+      "status": "gepostet",
       "manychat": false,
-      "ig_error": "2026-11-18 create_story: \"The requested resource does not exist\" (jsDelivr-URL @5394f30)"
+      "ig_error": "2026-11-18 create_story: \"The requested resource does not exist\" (jsDelivr-URL @5394f30) → von Timo manuell gepostet",
+      "ig_post_id": "manuell",
+      "ig_posted_at": "2026-11-18T19:56:31+01:00"
     },
     {
       "id": "2026-11-19-feed",
