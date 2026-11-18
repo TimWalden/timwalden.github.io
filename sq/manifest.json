@@ -236,7 +236,8 @@
       "manychat": false,
       "fb_image": "sq/posts/2026-11-18/fb.jpg",
       "fb_post_id": "1475942118931806_122111654031533395",
-      "fb_posted_at": "2026-11-18T12:45:38+01:00"
+      "fb_posted_at": "2026-11-18T12:45:38+01:00",
+      "ig_error": "2026-11-18 create_carousel_post: \"Only photo or video can be accepted as media type.\" (jsDelivr-URLs @5394f30); Retry blockiert"
     },
     {
       "id": "2026-11-18-story",
@@ -248,7 +249,8 @@
       ],
       "caption": "",
       "status": "freigegeben",
-      "manychat": false
+      "manychat": false,
+      "ig_error": "2026-11-18 create_story: \"The requested resource does not exist\" (jsDelivr-URL @5394f30)"
     },
     {
       "id": "2026-11-19-feed",
