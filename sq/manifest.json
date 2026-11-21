@@ -350,7 +350,8 @@
       "sfx": [
         "labor_atmo.mp3",
         "herzschlag.mp3"
-      ]
+      ],
+      "fb_manual": true
     },
     {
       "id": "2026-11-21-story",
