@@ -351,7 +351,9 @@
         "labor_atmo.mp3",
         "herzschlag.mp3"
       ],
-      "fb_manual": true
+      "fb_manual": true,
+      "ig_post_id": "17899595511413483",
+      "ig_posted_at": "2026-11-21T19:27:04+01:00"
     },
     {
       "id": "2026-11-21-story",
@@ -362,8 +364,10 @@
         "sq/posts/2026-11-21/story.jpg"
       ],
       "caption": "",
-      "status": "freigegeben",
-      "manychat": false
+      "status": "gepostet",
+      "manychat": false,
+      "ig_post_id": "17959143300274982",
+      "ig_posted_at": "2026-11-21T19:27:04+01:00"
     },
     {
       "id": "2026-11-22-feed",
