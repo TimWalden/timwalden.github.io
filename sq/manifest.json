@@ -1,656 +1,656 @@
 {
-  "posts": [
-    {
-      "id": "2026-11-11-feed",
-      "date": "2026-11-11",
-      "kind": "feed",
-      "type": "image",
-      "files": [
-        "sq/posts/2026-11-11/feed.jpg"
-      ],
-      "caption": "Verkaufspost mit Cover (manuell gepostet)",
-      "status": "gepostet",
-      "ig_post_id": "18092466650265092",
-      "fb_post_id": "1475942118931806_122109133953533395",
-      "ig_posted_at": "2026-11-11T22:27:00+01:00",
-      "fb_posted_at": "2026-11-11T22:27:00+01:00"
-    },
-    {
-      "id": "2026-11-12-feed",
-      "date": "2026-11-12",
-      "kind": "feed",
-      "type": "carousel",
-      "files": [
-        "sq/posts/2026-11-12/slide_01.jpg",
-        "sq/posts/2026-11-12/slide_02.jpg",
-        "sq/posts/2026-11-12/slide_03.jpg",
-        "sq/posts/2026-11-12/slide_04.jpg",
-        "sq/posts/2026-11-12/slide_05.jpg",
-        "sq/posts/2026-11-12/slide_06.jpg",
-        "sq/posts/2026-11-12/slide_07.jpg"
-      ],
-      "caption": "„Und du bist die Pflanzenfrau.“ 📷\n\nDas ist Tom. Fotograf, Sprücheklopfer und der Einzige im Team, der Sofia zum Lachen bringt. Ein Magazin zahlt die Hälfte seiner Expedition. Sagt er.\n\nWisch durch und lern ihn kennen. Alles aus Kapitel 1, ohne Spoiler.\n\nWie es mit Tom und Sofia im Amazonas weitergeht, liest du in meinem Thriller Stille Quelle. Als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#stillequelle #buchcharaktere #thriller #bookstagram #wissenschaftsthriller",
-      "fb_caption": "„Und du bist die Pflanzenfrau.“ 📷\n\nDas ist Tom. Fotograf, Sprücheklopfer und der Einzige im Team, der Sofia zum Lachen bringt. Ein Magazin zahlt die Hälfte seiner Expedition. Sagt er.\n\nWisch durch und lern ihn kennen. Alles aus Kapitel 1, ohne Spoiler.\n\nWie es mit Tom und Sofia im Amazonas weitergeht, liest du in meinem Thriller Stille Quelle. Als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#stillequelle #buchcharaktere #thriller #bookstagram #wissenschaftsthriller",
-      "status": "gepostet",
-      "fb_post_id": "1475942118931806_122109356721533395",
-      "fb_posted_at": "2026-11-12T12:45:34+01:00",
-      "ig_post_id": "18114758819145930",
-      "ig_posted_at": "2026-11-12T19:50:20+01:00"
-    },
-    {
-      "id": "2026-11-12-story",
-      "date": "2026-11-12",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-12/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "ig_post_id": "18125999260991527",
-      "ig_posted_at": "2026-11-12T19:50:20+01:00"
-    },
-    {
-      "id": "2026-11-13-feed",
-      "date": "2026-11-13",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-13/reel.mp4"
-      ],
-      "caption": "Amazonas. Berlin. Heidelberg. 🌿\n\nDrei Orte. Ein Virus. Und eine einzige Pflanze, die alles ändern könnte.\n\nIm Amazonas beginnt es. In der Charité kommt es an. Und in Heidelberg liegt die Antwort. Mehr verrate ich nicht.\n\nKennst du einen der drei Orte? Schreib's in die Kommentare.\nWenn du wissen willst, wie alles zusammenhängt: Hol dir meinen Thriller Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#stillequelle #thriller #heidelberg #berlin #amazonas",
-      "fb_caption": "Amazonas. Berlin. Heidelberg. 🌿\n\nDrei Orte. Ein Virus. Und eine einzige Pflanze, die alles ändern könnte.\n\nIm Amazonas beginnt es. In der Charité kommt es an. Und in Heidelberg liegt die Antwort. Mehr verrate ich nicht.\n\nKennst du einen der drei Orte? Schreib's in die Kommentare.\nWenn du wissen willst, wie alles zusammenhängt: Hol dir meinen Thriller Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#stillequelle #thriller #heidelberg #berlin #amazonas",
-      "status": "gepostet",
-      "fb_image": "sq/posts/2026-11-13/fb.jpg",
-      "fb_post_id": "1475942118931806_122109790221533395",
-      "fb_posted_at": "2026-11-13T12:45:40+01:00",
-      "ig_post_id": "18123592520000615",
-      "ig_posted_at": "2026-11-13T19:50:30+01:00"
-    },
-    {
-      "id": "2026-11-13-story",
-      "date": "2026-11-13",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-13/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "ig_post_id": "18381454573242152",
-      "ig_posted_at": "2026-11-13T19:50:30+01:00"
-    },
-    {
-      "id": "2026-11-14-feed",
-      "date": "2026-11-14",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-14/reel.mp4"
-      ],
-      "caption": "Eine giftige Gartenblume. Ein Herzmittel. 🌿\n\nWahr oder erfunden? Wahr. Aus dem Fingerhut stammen die Herzmittel Digitoxin und Digoxin. 1785 beschrieb der englische Arzt William Withering, wie die Pflanze bei Herzschwäche wirkt. Der Hinweis stammte aus einem alten Familienrezept gegen Wassersucht.\n\nAber Vorsicht: Fingerhut ist hochgiftig. Schon kleine Mengen können lebensgefährlich sein.\n\nZwischen Gift und Heilmittel liegt oft nur die Dosis. Davon handelt mein Thriller Stille Quelle: ein Virus aus dem Amazonas und eine Pflanze, die alles ändern könnte.\n\nHättest du es gewusst? Schreib ja oder nein in die Kommentare.\nStille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #fingerhut #stillequelle #wissenschaft",
-      "fb_caption": "Eine giftige Gartenblume. Ein Herzmittel. 🌿\n\nWahr oder erfunden? Wahr. Aus dem Fingerhut stammen die Herzmittel Digitoxin und Digoxin. 1785 beschrieb der englische Arzt William Withering, wie die Pflanze bei Herzschwäche wirkt. Der Hinweis stammte aus einem alten Familienrezept gegen Wassersucht.\n\nAber Vorsicht: Fingerhut ist hochgiftig. Schon kleine Mengen können lebensgefährlich sein.\n\nZwischen Gift und Heilmittel liegt oft nur die Dosis. Davon handelt mein Thriller Stille Quelle: ein Virus aus dem Amazonas und eine Pflanze, die alles ändern könnte.\n\nHättest du es gewusst? Schreib ja oder nein in die Kommentare.\nStille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #fingerhut #stillequelle #wissenschaft",
-      "status": "gepostet",
-      "fb_image": "sq/posts/2026-11-14/fb.jpg",
-      "fb_post_id": "1475942118931806_122110178943533395",
-      "fb_posted_at": "2026-11-14T12:45:25+01:00",
-      "ig_post_id": "18234911317332223",
-      "ig_posted_at": "2026-11-14T19:50:20+01:00"
-    },
-    {
-      "id": "2026-11-14-story",
-      "date": "2026-11-14",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-14/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "ig_post_id": "18100544225440799",
-      "ig_posted_at": "2026-11-14T19:50:20+01:00"
-    },
-    {
-      "id": "2026-11-15-feed",
-      "date": "2026-11-15",
-      "kind": "feed",
-      "type": "image",
-      "files": [
-        "sq/posts/2026-11-15/feed.jpg"
-      ],
-      "caption": "Sonntag. Zeit für die ersten Seiten. ☕\n\nSofia hat den perfekten Verlobten und ein ruhiges Leben in Heidelberg. Dann geht es in den Amazonas. Und nichts bleibt, wie es war.\n\nLies den Anfang von Stille Quelle gratis in der Leseprobe bei Amazon. Wenn er dich packt, hol dir das ganze Buch als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#leseprobe #sonntagslektuere #thriller #stillequelle #lesetipp",
-      "fb_caption": "Sonntag. Zeit für die ersten Seiten. ☕\n\nSofia hat den perfekten Verlobten und ein ruhiges Leben in Heidelberg. Dann geht es in den Amazonas. Und nichts bleibt, wie es war.\n\nLies den Anfang von Stille Quelle gratis in der Leseprobe bei Amazon. Wenn er dich packt, hol dir das ganze Buch als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#leseprobe #sonntagslektuere #thriller #stillequelle #lesetipp",
-      "status": "gepostet",
-      "fb_image": "sq/posts/2026-11-15/fb.jpg",
-      "fb_post_id": "1475942118931806_122110549413533395",
-      "fb_posted_at": "2026-11-15T12:45:33+01:00",
-      "ig_post_id": "17877575283593745",
-      "ig_posted_at": "2026-11-15T19:49:49+01:00"
-    },
-    {
-      "id": "2026-11-15-story",
-      "date": "2026-11-15",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-15/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "ig_post_id": "18109554262981418",
-      "ig_posted_at": "2026-11-15T19:49:49+01:00"
-    },
-    {
-      "id": "2026-11-16-feed",
-      "date": "2026-11-16",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-16/reel.mp4"
-      ],
-      "caption": "Ein Nadelbaum. Und in seiner Rinde ein Wirkstoff gegen Krebs. 🌲\n\nWahr oder erfunden? Wahr. Paclitaxel wurde in der Rinde der Pazifischen Eibe entdeckt und gehört heute zu den wichtigsten Krebsmedikamenten.\n\nWir wissen nur von einem Bruchteil aller Pflanzen, was sie können. Was, wenn die nächste Rettung noch unentdeckt wächst? Genau diese Frage treibt meinen Thriller Stille Quelle an. Echte Biologie, ein Virus aus dem Amazonas und eine Pflanze, die niemand beachtet.\n\nHättest du es gewusst? Schreib 🌲 in die Kommentare, wenn ja.\nUnd wenn du die Geschichte dazu lesen willst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild & Stimme: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #biologie #stillequelle #wissenschaft",
-      "fb_caption": "Ein Nadelbaum. Und in seiner Rinde ein Wirkstoff gegen Krebs. 🌲\n\nWahr oder erfunden? Wahr. Paclitaxel wurde in der Rinde der Pazifischen Eibe entdeckt und gehört heute zu den wichtigsten Krebsmedikamenten.\n\nWir wissen nur von einem Bruchteil aller Pflanzen, was sie können. Was, wenn die nächste Rettung noch unentdeckt wächst? Genau diese Frage treibt meinen Thriller Stille Quelle an. Echte Biologie, ein Virus aus dem Amazonas und eine Pflanze, die niemand beachtet.\n\nHättest du es gewusst? Schreib 🌲 in die Kommentare, wenn ja.\nUnd wenn du die Geschichte dazu lesen willst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #biologie #stillequelle #wissenschaft",
-      "status": "gepostet",
-      "fb_image": "sq/posts/2026-11-16/fb.jpg",
-      "manychat": false,
-      "fb_post_id": "1475942118931806_122110870131533395",
-      "fb_posted_at": "2026-11-16T12:46:34+01:00",
-      "voiceover": true,
-      "voice_script": "Ein Krebsmedikament aus einem Nadelbaum. Klingt erfunden. Ist es aber nicht. Paclitaxel wurde in der Rinde der Pazifischen Eibe entdeckt. Heute rettet es Leben. Was wächst da draußen noch, das niemand kennt? Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "wald_atmo.mp3",
-        "herzschlag.mp3"
-      ],
-      "ig_post_id": "18122468062953938",
-      "ig_posted_at": "2026-11-16T19:57:42+01:00"
-    },
-    {
-      "id": "2026-11-16-story",
-      "date": "2026-11-16",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-16/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "manychat": false,
-      "ig_post_id": "18098192690149286",
-      "ig_posted_at": "2026-11-16T19:58:06+01:00"
-    },
-    {
-      "id": "2026-11-17-feed",
-      "date": "2026-11-17",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-17/reel.mp4"
-      ],
-      "caption": "Im Meer gibt es mehr Viren als Sterne im Universum. 🦠✨\n\nWahr. Forscher schätzen, dass es allein in den Ozeanen rund zehn Millionen Mal mehr Viren gibt als Sterne im All. Die allermeisten befallen Bakterien, nicht uns.\n\nEin paar davon tun es doch. Und genau so eins steht im Mittelpunkt meines Thrillers Stille Quelle: ein Virus aus dem Amazonas, geschrieben von einem Biologen, der weiß, wovon er spricht.\n\nHättest du es gewusst? Schreib 🦠 in die Kommentare, wenn ja.\nLust auf die Geschichte? Stille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nLink in der Bio.\n\n(Bild & Stimme: KI-generiert)\n\n#wahroderfalsch #viren #wissenschaft #stillequelle #thriller",
-      "fb_caption": "Im Meer gibt es mehr Viren als Sterne im Universum. 🦠✨\n\nWahr. Forscher schätzen, dass es allein in den Ozeanen rund zehn Millionen Mal mehr Viren gibt als Sterne im All. Die allermeisten befallen Bakterien, nicht uns.\n\nEin paar davon tun es doch. Und genau so eins steht im Mittelpunkt meines Thrillers Stille Quelle: ein Virus aus dem Amazonas, geschrieben von einem Biologen, der weiß, wovon er spricht.\n\nHättest du es gewusst? Schreib 🦠 in die Kommentare, wenn ja.\nLust auf die Geschichte? Stille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #viren #wissenschaft #stillequelle #thriller",
-      "status": "gepostet",
-      "fb_image": "sq/posts/2026-11-17/fb.jpg",
-      "manychat": false,
-      "voiceover": true,
-      "voice_script": "Im Meer gibt es mehr Viren als Sterne im Universum. Klingt verrückt. Ist aber wahr. Forscher schätzen: zehn Millionen Mal mehr. Die meisten befallen nur Bakterien. Aber nicht alle. Und eines davon kommt aus dem Amazonas. Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "ozean_atmo.mp3",
-        "herzschlag.mp3"
-      ],
-      "fb_post_id": "1475942118931806_122111205051533395",
-      "fb_posted_at": "2026-11-17T12:45:36+01:00",
-      "ig_post_id": "18389833657224928",
-      "ig_posted_at": "2026-11-17T19:49:17+01:00"
-    },
-    {
-      "id": "2026-11-17-story",
-      "date": "2026-11-17",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-17/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "manychat": false,
-      "ig_post_id": "18130888897856276",
-      "ig_posted_at": "2026-11-17T19:49:17+01:00"
-    },
-    {
-      "id": "2026-11-18-feed",
-      "date": "2026-11-18",
-      "kind": "feed",
-      "type": "carousel",
-      "files": [
-        "sq/posts/2026-11-18/slide_01.jpg",
-        "sq/posts/2026-11-18/slide_02.jpg",
-        "sq/posts/2026-11-18/slide_03.jpg",
-        "sq/posts/2026-11-18/slide_04.jpg",
-        "sq/posts/2026-11-18/slide_05.jpg",
-        "sq/posts/2026-11-18/slide_06.jpg",
-        "sq/posts/2026-11-18/slide_07.jpg"
-      ],
-      "caption": "Ein Satz im Kopf. Monate später ein Buch in der Hand. 📖\n\nSo ist Stille Quelle entstanden: von der ersten Frage über das Konzept und das Lektorat bis zum Probedruck. Und jetzt kommt das Hardcover dazu.\n\nWelche Folie überrascht dich? Schreib's mir.\n\nWenn du wissen willst, was aus dem einen Satz geworden ist: Mein Thriller wartet als E-Book, Taschenbuch oder Hardcover auf dich.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#autorenleben #selfpublishing #schreiben #stillequelle #bookstagram",
-      "fb_caption": "Ein Satz im Kopf. Monate später ein Buch in der Hand. 📖\n\nSo ist Stille Quelle entstanden: von der ersten Frage über das Konzept und das Lektorat bis zum Probedruck. Und jetzt kommt das Hardcover dazu.\n\nWelche Folie überrascht dich? Schreib's mir.\n\nWenn du wissen willst, was aus dem einen Satz geworden ist: Mein Thriller wartet als E-Book, Taschenbuch oder Hardcover auf dich.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#autorenleben #selfpublishing #schreiben #stillequelle #bookstagram",
-      "status": "gepostet",
-      "manychat": false,
-      "fb_image": "sq/posts/2026-11-18/fb.jpg",
-      "fb_post_id": "1475942118931806_122111654031533395",
-      "fb_posted_at": "2026-11-18T12:45:38+01:00",
-      "ig_error": "2026-11-18 create_carousel_post: \"Only photo or video can be accepted as media type.\" (jsDelivr-URLs @5394f30); Retry blockiert → von Timo manuell gepostet",
-      "ig_post_id": "manuell",
-      "ig_posted_at": "2026-11-18T19:56:31+01:00"
-    },
-    {
-      "id": "2026-11-18-story",
-      "date": "2026-11-18",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-18/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "manychat": false,
-      "ig_error": "2026-11-18 create_story: \"The requested resource does not exist\" (jsDelivr-URL @5394f30) → von Timo manuell gepostet",
-      "ig_post_id": "manuell",
-      "ig_posted_at": "2026-11-18T19:56:31+01:00"
-    },
-    {
-      "id": "2026-11-19-feed",
-      "date": "2026-11-19",
-      "kind": "feed",
-      "type": "carousel",
-      "files": [
-        "sq/posts/2026-11-19/slide_01.jpg",
-        "sq/posts/2026-11-19/slide_02.jpg",
-        "sq/posts/2026-11-19/slide_03.jpg",
-        "sq/posts/2026-11-19/slide_04.jpg",
-        "sq/posts/2026-11-19/slide_05.jpg",
-        "sq/posts/2026-11-19/slide_06.jpg"
-      ],
-      "caption": "Darf man eine Pflanze aus dem Amazonas einfach mitnehmen? 🌿\n\nKurz: nein. Seit 2014 regelt das Nagoya-Protokoll, wer genetische Ressourcen nutzen darf und wer am Gewinn beteiligt wird. Brasilien hat dafür sogar ein eigenes Gesetz. Wer es ignoriert, betreibt Biopiraterie.\n\nAls Biologe finde ich das Thema spannend. Als Autor noch mehr. Denn in Stille Quelle nimmt eine Botanikerin genau so eine Pflanze mit. Und dann bricht ein Virus aus.\n\nSpeicher dir den Post, wenn du was gelernt hast.\nWie es weitergeht, liest du in meinem Thriller. Als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#biopiraterie #amazonas #biologie #stillequelle #wissenschaftsthriller",
-      "fb_caption": "Darf man eine Pflanze aus dem Amazonas einfach mitnehmen? 🌿\n\nKurz: nein. Seit 2014 regelt das Nagoya-Protokoll, wer genetische Ressourcen nutzen darf und wer am Gewinn beteiligt wird. Brasilien hat dafür sogar ein eigenes Gesetz. Wer es ignoriert, betreibt Biopiraterie.\n\nAls Biologe finde ich das Thema spannend. Als Autor noch mehr. Denn in Stille Quelle nimmt eine Botanikerin genau so eine Pflanze mit. Und dann bricht ein Virus aus.\n\nSpeicher dir den Post, wenn du was gelernt hast.\nWie es weitergeht, liest du in meinem Thriller. Als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#biopiraterie #amazonas #biologie #stillequelle #wissenschaftsthriller",
-      "status": "gepostet",
-      "manychat": false,
-      "fb_image": "sq/posts/2026-11-19/fb.jpg",
-      "fb_post_id": "1475942118931806_122111958891533395",
-      "fb_posted_at": "2026-11-19T12:46:04+01:00",
-      "ig_post_id": "17979992603932703",
-      "ig_posted_at": "2026-11-19T19:50:48+01:00"
-    },
-    {
-      "id": "2026-11-19-story",
-      "date": "2026-11-19",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-19/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "manychat": false,
-      "ig_post_id": "18439760059195119",
-      "ig_posted_at": "2026-11-19T19:50:48+01:00"
-    },
-    {
-      "id": "2026-11-20-feed",
-      "date": "2026-11-20",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-20/reel.mp4"
-      ],
-      "caption": "Es ist da. Stille Quelle als Hardcover. 📚\n\nFester Einband, gleiche Geschichte: eine Botanikerin, eine unscheinbare Pflanze, ein Virus aus dem Amazonas und eine Lüge, die jemand um jeden Preis verbergen will.\n\nFürs eigene Regal oder als Geschenk für alle, die Thriller mit echter Wissenschaft mögen. Hol dir Stille Quelle jetzt als Hardcover, Taschenbuch oder E-Book.\n\nKommentiere QUELLE, und ich schick dir den Link.\n\n(Bild & Stimme: KI-generiert)\n\n#hardcover #neuerscheinung #thriller #stillequelle #buchgeschenk",
-      "fb_caption": "Es ist da. Stille Quelle als Hardcover. 📚\n\nFester Einband, gleiche Geschichte: eine Botanikerin, eine unscheinbare Pflanze, ein Virus aus dem Amazonas und eine Lüge, die jemand um jeden Preis verbergen will.\n\nFürs eigene Regal oder als Geschenk für alle, die Thriller mit echter Wissenschaft mögen. Hol dir Stille Quelle jetzt als Hardcover, Taschenbuch oder E-Book.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#hardcover #neuerscheinung #thriller #stillequelle #buchgeschenk",
-      "status": "gepostet",
-      "fb_image": "sq/posts/2026-11-20/fb.jpg",
-      "manychat": true,
-      "voiceover": true,
-      "voice_script": "Es ist da. Stille Quelle als Hardcover. Eine Botanikerin. Eine unscheinbare Pflanze. Ein Virus aus dem Amazonas. Und eine Lüge, die jemand um jeden Preis verbergen will. Fürs eigene Regal oder als Geschenk. Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "wald_atmo.mp3",
-        "buch.mp3",
-        "herzschlag.mp3"
-      ],
-      "fb_post_id": "1475942118931806_122111645793533395",
-      "fb_manual": true,
-      "ig_post_id": "17964255603252810",
-      "ig_posted_at": "2026-11-20T19:27:27+01:00"
-    },
-    {
-      "id": "2026-11-20-story",
-      "date": "2026-11-20",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-20/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "manychat": false,
-      "ig_post_id": "18127943533910410",
-      "ig_posted_at": "2026-11-20T19:27:27+01:00"
-    },
-    {
-      "id": "2026-11-21-feed",
-      "date": "2026-11-21",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-21/reel.mp4"
-      ],
-      "caption": "In diesem Labor atmest du keine Raumluft. 🧪\n\nSchutzstufe 4 ist die höchste Sicherheitsstufe für Labore. Wer dort arbeitet, trägt einen Vollschutzanzug mit eigener Luftzufuhr. Dazu kommen Unterdruck, Schleusen und eine Chemiedusche beim Rausgehen. In Berlin betreibt das Robert Koch-Institut seit 2018 so ein Labor, unter anderem für Ebola- und Lassaviren.\n\nBerlin ist auch ein Schauplatz in meinem Thriller Stille Quelle. Ein unbekanntes Virus aus dem Amazonas, eine Botanikerin aus Heidelberg und eine Pflanze, die niemand beachtet. Echte Wissenschaft, geschrieben von einem Biologen.\n\nWürdest du da reingehen? Schreib 🧪 für ja oder 🚪 für nein.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild & Stimme: KI-generiert)\n\n#virologie #labor #berlin #stillequelle #wissenschaftsthriller",
-      "fb_caption": "In diesem Labor atmest du keine Raumluft. 🧪\n\nSchutzstufe 4 ist die höchste Sicherheitsstufe für Labore. Wer dort arbeitet, trägt einen Vollschutzanzug mit eigener Luftzufuhr. Dazu kommen Unterdruck, Schleusen und eine Chemiedusche beim Rausgehen. In Berlin betreibt das Robert Koch-Institut seit 2018 so ein Labor, unter anderem für Ebola- und Lassaviren.\n\nBerlin ist auch ein Schauplatz in meinem Thriller Stille Quelle. Ein unbekanntes Virus aus dem Amazonas, eine Botanikerin aus Heidelberg und eine Pflanze, die niemand beachtet. Echte Wissenschaft, geschrieben von einem Biologen.\n\nWürdest du da reingehen? Schreib 🧪 für ja oder 🚪 für nein.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#virologie #labor #berlin #stillequelle #wissenschaftsthriller",
-      "status": "freigegeben",
-      "fb_image": "sq/posts/2026-11-21/fb.jpg",
-      "manychat": false,
-      "voiceover": true,
-      "voice_script": "In diesem Labor atmest du keine Raumluft. Schutzstufe vier, die höchste Sicherheitsstufe überhaupt. Vollschutzanzug, eigene Luftzufuhr, Unterdruck, Chemiedusche. In Berlin wird so an Ebola- und Lassaviren geforscht. Und Berlin ist ein Schauplatz dieses Thrillers. Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "labor_atmo.mp3",
-        "herzschlag.mp3"
-      ],
-      "fb_manual": true,
-      "ig_post_id": "17899595511413483",
-      "ig_posted_at": "2026-11-21T19:27:04+01:00"
-    },
-    {
-      "id": "2026-11-21-story",
-      "date": "2026-11-21",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-21/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "manychat": false,
-      "ig_post_id": "17959143300274982",
-      "ig_posted_at": "2026-11-21T19:27:04+01:00"
-    },
-    {
-      "id": "2026-11-22-feed",
-      "date": "2026-11-22",
-      "kind": "feed",
-      "type": "image",
-      "files": [
-        "sq/posts/2026-11-22/feed.jpg"
-      ],
-      "caption": "Noch eine Geschenkidee gesucht? 🎁\n\nFür alle, die Thriller lieben und dabei gern etwas dazulernen: Stille Quelle als Hardcover. Ein Virus aus dem Amazonas, eine Pflanze, die niemand beachtet, und echte Wissenschaft von einem Biologen.\n\nMein Thriller passt unter jeden Baum. Oder gleich auf deinen Nachttisch.\nHol dir Stille Quelle als Hardcover, Taschenbuch oder E-Book.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#buchgeschenk #weihnachtsgeschenk #thriller #stillequelle #lesetipp",
-      "fb_caption": "Noch eine Geschenkidee gesucht? 🎁\n\nFür alle, die Thriller lieben und dabei gern etwas dazulernen: Stille Quelle als Hardcover. Ein Virus aus dem Amazonas, eine Pflanze, die niemand beachtet, und echte Wissenschaft von einem Biologen.\n\nMein Thriller passt unter jeden Baum. Oder gleich auf deinen Nachttisch.\nHol dir Stille Quelle als Hardcover, Taschenbuch oder E-Book.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#buchgeschenk #weihnachtsgeschenk #thriller #stillequelle #lesetipp",
-      "status": "gepostet",
-      "manychat": false,
-      "fb_post_id": "1475942118931806_122112967755533395",
-      "fb_posted_at": "2026-11-22T12:45:30+01:00",
-      "ig_post_id": "18122085619760773",
-      "ig_posted_at": "2026-11-22T19:26:52+01:00"
-    },
-    {
-      "id": "2026-11-22-story",
-      "date": "2026-11-22",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-22/story.jpg"
-      ],
-      "caption": "",
-      "status": "gepostet",
-      "manychat": false,
-      "ig_post_id": "18115112255523587",
-      "ig_posted_at": "2026-11-22T19:26:52+01:00"
-    },
-    {
-      "id": "2026-11-23-feed",
-      "date": "2026-11-23",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-23/reel.mp4"
-      ],
-      "caption": "Antibiotika gegen Grippe? Viele schwören drauf. 🦠\n\nWahr oder erfunden? Erfunden. Antibiotika wirken gegen Bakterien. Grippe und die meisten Erkältungen lösen Viren aus, und denen können Antibiotika nichts anhaben.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: ein unbekanntes Virus aus dem Amazonas, eine unscheinbare Pflanze und eine Lüge. Echte Wissenschaft, geschrieben von einem Biologen.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nUnd am Donnerstag gibt es eine Überraschung. 👀\n\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#wahroderfalsch #antibiotika #viren #stillequelle #wissenschaft",
-      "fb_caption": "Antibiotika gegen Grippe? Viele schwören drauf. 🦠\n\nWahr oder erfunden? Erfunden. Antibiotika wirken gegen Bakterien. Grippe und die meisten Erkältungen lösen Viren aus, und denen können Antibiotika nichts anhaben.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: ein unbekanntes Virus aus dem Amazonas, eine unscheinbare Pflanze und eine Lüge. Echte Wissenschaft, geschrieben von einem Biologen.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nUnd am Donnerstag gibt es eine Überraschung. 👀\n\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wahroderfalsch #antibiotika #viren #stillequelle #wissenschaft",
-      "manychat": false,
-      "voiceover": true,
-      "voice_script": "Antibiotika helfen gegen Grippe und Erkältung. Wahr oder erfunden? Was meinst du? Erfunden. Antibiotika wirken nur gegen Bakterien. Viren bieten ihnen keinen Angriffspunkt. Was alle glauben, muss nicht stimmen. Genau darum geht es in diesem Thriller. Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "herzschlag.mp3"
-      ],
-      "wahr_oder_erfunden": "erfunden",
-      "status": "freigegeben",
-      "fb_manual": true,
-      "ig_post_id": "18101981678451228",
-      "ig_posted_at": "2026-11-23T19:27:48+01:00"
-    },
-    {
-      "id": "2026-11-23-story",
-      "date": "2026-11-23",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-23/story.jpg"
-      ],
-      "caption": "",
-      "manychat": false,
-      "voiceover": false,
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "gepostet",
-      "ig_post_id": "18124397779948062",
-      "ig_posted_at": "2026-11-23T19:27:48+01:00"
-    },
-    {
-      "id": "2026-11-24-feed",
-      "date": "2026-11-24",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-24/reel.mp4"
-      ],
-      "caption": "Diese Pflanze hat Spritzen. Aus Glas. 🌿\n\nWahr oder erfunden? Wahr. Die Spitze jedes Brennhaars der Brennnessel ist verkieselt, sie besteht aus Siliziumdioxid, dem Hauptbestandteil von Glas. Bei Berührung bricht sie ab, und das Haar spritzt wie eine Kanüle Reizstoffe wie Histamin in die Haut.\n\nUnscheinbare Pflanzen können mehr, als man denkt. Davon handelt mein Thriller Stille Quelle: Ein Virus aus dem Amazonas, und die Rettung wächst da, wo niemand hinschaut.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#wahroderfalsch #brennnessel #botanik #stillequelle #biologie",
-      "fb_caption": "Diese Pflanze hat Spritzen. Aus Glas. 🌿\n\nWahr oder erfunden? Wahr. Die Spitze jedes Brennhaars der Brennnessel ist verkieselt, sie besteht aus Siliziumdioxid, dem Hauptbestandteil von Glas. Bei Berührung bricht sie ab, und das Haar spritzt wie eine Kanüle Reizstoffe wie Histamin in die Haut.\n\nUnscheinbare Pflanzen können mehr, als man denkt. Davon handelt mein Thriller Stille Quelle: Ein Virus aus dem Amazonas, und die Rettung wächst da, wo niemand hinschaut.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wahroderfalsch #brennnessel #botanik #stillequelle #biologie",
-      "manychat": false,
-      "voiceover": true,
-      "voice_script": "Diese Pflanze hat Spritzen. Aus Glas. Was meinst du? Wahr. Die Brennhaare der Brennnessel haben eine Spitze aus Kieselsäure. Bei Berührung bricht sie ab. Wie eine Kanüle spritzt sie Reizstoffe in die Haut. Unterschätz nie eine unscheinbare Pflanze. Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "glas_klirren.mp3",
-        "herzschlag.mp3"
-      ],
-      "wahr_oder_erfunden": "wahr",
-      "status": "freigegeben",
-      "fb_manual": true
-    },
-    {
-      "id": "2026-11-24-story",
-      "date": "2026-11-24",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-24/story.jpg"
-      ],
-      "caption": "",
-      "manychat": false,
-      "voiceover": false,
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-25-feed",
-      "date": "2026-11-25",
-      "kind": "feed",
-      "type": "carousel",
-      "files": [
-        "sq/posts/2026-11-25/slide_01.jpg",
-        "sq/posts/2026-11-25/slide_02.jpg",
-        "sq/posts/2026-11-25/slide_03.jpg",
-        "sq/posts/2026-11-25/slide_04.jpg",
-        "sq/posts/2026-11-25/slide_05.jpg",
-        "sq/posts/2026-11-25/slide_06.jpg"
-      ],
-      "caption": "Kann ein Virus aus dem Regenwald wirklich bis zu uns kommen? 🌿\n\nIhr habt gefragt, ich antworte. Als Biologe und als Autor. Wisch durch: vier Fragen zu meinem Thriller Stille Quelle.\n\nWelche Frage soll ich als Nächstes beantworten? Schreib sie in die Kommentare.\nUnd morgen gibt es eine Überraschung. 👀\n\nWenn du die Antworten lieber selbst entdeckst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#wissenschaft #biologie #fragenundantworten #stillequelle #thriller",
-      "fb_caption": "Kann ein Virus aus dem Regenwald wirklich bis zu uns kommen? 🌿\n\nIhr habt gefragt, ich antworte. Als Biologe und als Autor. Vier Fragen zu meinem Thriller Stille Quelle.\n\nWelche Frage soll ich als Nächstes beantworten? Schreib sie in die Kommentare.\nUnd morgen gibt es eine Überraschung. 👀\n\nWenn du die Antworten lieber selbst entdeckst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wissenschaft #biologie #fragenundantworten #stillequelle #thriller",
-      "manychat": false,
-      "voiceover": false,
-      "voice_script": "",
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben",
-      "fb_image": "sq/posts/2026-11-25/fb.jpg"
-    },
-    {
-      "id": "2026-11-25-story",
-      "date": "2026-11-25",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-25/story.jpg"
-      ],
-      "caption": "",
-      "manychat": false,
-      "voiceover": false,
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-26-feed",
-      "date": "2026-11-26",
-      "kind": "feed",
-      "type": "image",
-      "files": [
-        "sq/posts/2026-11-26/feed.jpg"
-      ],
-      "caption": "Nur bis Sonntag: Stille Quelle als E-Book gratis. 🌿\n\nEin Virus aus dem Amazonas. Eine Pflanze, die niemand beachtet. Eine Lüge, die alles zerstören kann. Mein Thriller, geschrieben von einem Biologen, mit echter Wissenschaft dahinter.\n\nHol dir das E-Book jetzt kostenlos, bevor die Aktion am Sonntag endet.\nKommentiere QUELLE, und ich schick dir den Link. Und teil den Post mit jemandem, der Thriller liebt.\n\n#gratisebook #kindle #thriller #stillequelle #lesetipp",
-      "fb_caption": "Nur bis Sonntag: Stille Quelle als E-Book gratis. 🌿\n\nEin Virus aus dem Amazonas. Eine Pflanze, die niemand beachtet. Eine Lüge, die alles zerstören kann. Mein Thriller, geschrieben von einem Biologen, mit echter Wissenschaft dahinter.\n\nHol dir das E-Book jetzt kostenlos, bevor die Aktion am Sonntag endet.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB Und teil den Post mit jemandem, der Thriller liebt.\n\n#gratisebook #kindle #thriller #stillequelle #lesetipp",
-      "manychat": true,
-      "voiceover": false,
-      "voice_script": "",
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-26-story",
-      "date": "2026-11-26",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-26/story.jpg"
-      ],
-      "caption": "",
-      "manychat": false,
-      "voiceover": false,
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-27-feed",
-      "date": "2026-11-27",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-27/reel.mp4"
-      ],
-      "caption": "Ein Forscherteam im Amazonas. Einer von ihnen bringt ein Virus mit. 🦠\n\nSo beginnt es in meinem Thriller Stille Quelle. Wenige Wochen später ist das Virus auf allen Kontinenten. Und die Rettung? Eine unscheinbare Pflanze, an der jeder vorbeiläuft. Dazu eine Lüge, die jemand um jeden Preis verbergen will.\n\nIch bin Biologe. Darum steckt in dieser Geschichte so viel echte Wissenschaft.\n\nNur noch bis Sonntag ist das E-Book gratis. Hol dir Stille Quelle jetzt, als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#stillequelle #thriller #amazonas #wissenschaftsthriller #gratisebook",
-      "fb_caption": "Ein Forscherteam im Amazonas. Einer von ihnen bringt ein Virus mit. 🦠\n\nSo beginnt es in meinem Thriller Stille Quelle. Wenige Wochen später ist das Virus auf allen Kontinenten. Und die Rettung? Eine unscheinbare Pflanze, an der jeder vorbeiläuft. Dazu eine Lüge, die jemand um jeden Preis verbergen will.\n\nIch bin Biologe. Darum steckt in dieser Geschichte so viel echte Wissenschaft.\n\nNur noch bis Sonntag ist das E-Book gratis. Hol dir Stille Quelle jetzt, als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#stillequelle #thriller #amazonas #wissenschaftsthriller #gratisebook",
-      "manychat": false,
-      "voiceover": true,
-      "voice_script": "Ein Forscherteam im Amazonas. Einer von ihnen infiziert sich mit einem unbekannten Virus. Wenige Wochen später ist es auf allen Kontinenten. Und die Rettung? Eine unscheinbare Pflanze, an der jeder vorbeiläuft. Geschrieben von einem Biologen. Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "regenwald_voegel.mp3",
-        "herzschlag.mp3"
-      ],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-27-story",
-      "date": "2026-11-27",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-27/story.jpg"
-      ],
-      "caption": "",
-      "manychat": false,
-      "voiceover": false,
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-28-feed",
-      "date": "2026-11-28",
-      "kind": "feed",
-      "type": "carousel",
-      "files": [
-        "sq/posts/2026-11-28/slide_01.jpg",
-        "sq/posts/2026-11-28/slide_02.jpg",
-        "sq/posts/2026-11-28/slide_03.jpg",
-        "sq/posts/2026-11-28/slide_04.jpg",
-        "sq/posts/2026-11-28/slide_05.jpg",
-        "sq/posts/2026-11-28/slide_06.jpg"
-      ],
-      "caption": "Die Lunge der Welt? Stimmt so nicht ganz. 🌳\n\nDer Amazonas ist der Ort, an dem mein Thriller Stille Quelle beginnt. Wisch durch: vier Fakten über den größten Regenwald der Erde. Nummer drei überrascht fast alle.\n\nSpeicher dir den Post für später.\nDas E-Book ist nur noch bis morgen gratis, Taschenbuch und Hardcover gibt's jederzeit. Hol dir Stille Quelle.\nLink in der Bio.\n\n#amazonas #regenwald #biologie #stillequelle #wissenschaftsthriller",
-      "fb_caption": "Die Lunge der Welt? Stimmt so nicht ganz. 🌳\n\nDer Amazonas ist der Ort, an dem mein Thriller Stille Quelle beginnt. Vier Fakten über den größten Regenwald der Erde. Nummer drei überrascht fast alle.\n\nDas E-Book ist nur noch bis morgen gratis, Taschenbuch und Hardcover gibt's jederzeit. Hol dir Stille Quelle.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#amazonas #regenwald #biologie #stillequelle #wissenschaftsthriller",
-      "manychat": false,
-      "voiceover": false,
-      "voice_script": "",
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben",
-      "fb_image": "sq/posts/2026-11-28/fb.jpg"
-    },
-    {
-      "id": "2026-11-28-story",
-      "date": "2026-11-28",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-28/story.jpg"
-      ],
-      "caption": "",
-      "manychat": false,
-      "voiceover": false,
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-29-feed",
-      "date": "2026-11-29",
-      "kind": "feed",
-      "type": "reel",
-      "files": [
-        "sq/posts/2026-11-29/reel.mp4"
-      ],
-      "caption": "Pflanzen im Schlafzimmer rauben dir nachts den Sauerstoff? 🌿\n\nWahr oder erfunden? Erfunden. Pflanzen atmen zwar auch nachts, aber ihr Verbrauch ist winzig, verglichen mit dem eines schlafenden Menschen.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: um eine Lüge.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\n\nHeute ist der letzte Tag: Hol dir Stille Quelle noch gratis als E-Book.\nUnd an alle, die es schon gelesen haben: Eine kurze Rezension auf Amazon hilft mir als neuem Autor sehr. Ein Satz reicht. Danke!\nLink in der Bio.\n\n#wahroderfalsch #zimmerpflanzen #mythos #stillequelle #gratisebook",
-      "fb_caption": "Pflanzen im Schlafzimmer rauben dir nachts den Sauerstoff? 🌿\n\nWahr oder erfunden? Erfunden. Pflanzen atmen zwar auch nachts, aber ihr Verbrauch ist winzig, verglichen mit dem eines schlafenden Menschen.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: um eine Lüge.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\n\nHeute ist der letzte Tag: Hol dir Stille Quelle noch gratis als E-Book.\nUnd an alle, die es schon gelesen haben: Eine kurze Rezension auf Amazon hilft mir als neuem Autor sehr. Ein Satz reicht. Danke!\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wahroderfalsch #zimmerpflanzen #mythos #stillequelle #gratisebook",
-      "manychat": false,
-      "voiceover": true,
-      "voice_script": "Pflanzen im Schlafzimmer rauben dir nachts den Sauerstoff. Wahr oder erfunden? Erfunden. Ja, Pflanzen atmen auch nachts. Aber ihr Verbrauch ist winzig, verglichen mit deinem eigenen. Was alle glauben, muss nicht stimmen. Genau darum geht es in diesem Thriller. Stille Quelle. Jetzt auf Amazon.",
-      "sfx": [
-        "herzschlag.mp3"
-      ],
-      "wahr_oder_erfunden": "erfunden",
-      "status": "freigegeben"
-    },
-    {
-      "id": "2026-11-29-story",
-      "date": "2026-11-29",
-      "kind": "story",
-      "type": "story",
-      "files": [
-        "sq/posts/2026-11-29/story.jpg"
-      ],
-      "caption": "",
-      "manychat": false,
-      "voiceover": false,
-      "sfx": [],
-      "wahr_oder_erfunden": null,
-      "status": "freigegeben"
-    }
-  ]
+ "posts": [
+  {
+   "id": "2026-11-11-feed",
+   "date": "2026-11-11",
+   "kind": "feed",
+   "type": "image",
+   "files": [
+    "sq/posts/2026-11-11/feed.jpg"
+   ],
+   "caption": "Verkaufspost mit Cover (manuell gepostet)",
+   "status": "gepostet",
+   "ig_post_id": "18092466650265092",
+   "fb_post_id": "1475942118931806_122109133953533395",
+   "ig_posted_at": "2026-11-11T22:27:00+01:00",
+   "fb_posted_at": "2026-11-11T22:27:00+01:00"
+  },
+  {
+   "id": "2026-11-12-feed",
+   "date": "2026-11-12",
+   "kind": "feed",
+   "type": "carousel",
+   "files": [
+    "sq/posts/2026-11-12/slide_01.jpg",
+    "sq/posts/2026-11-12/slide_02.jpg",
+    "sq/posts/2026-11-12/slide_03.jpg",
+    "sq/posts/2026-11-12/slide_04.jpg",
+    "sq/posts/2026-11-12/slide_05.jpg",
+    "sq/posts/2026-11-12/slide_06.jpg",
+    "sq/posts/2026-11-12/slide_07.jpg"
+   ],
+   "caption": "„Und du bist die Pflanzenfrau.“ 📷\n\nDas ist Tom. Fotograf, Sprücheklopfer und der Einzige im Team, der Sofia zum Lachen bringt. Ein Magazin zahlt die Hälfte seiner Expedition. Sagt er.\n\nWisch durch und lern ihn kennen. Alles aus Kapitel 1, ohne Spoiler.\n\nWie es mit Tom und Sofia im Amazonas weitergeht, liest du in meinem Thriller Stille Quelle. Als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#stillequelle #buchcharaktere #thriller #bookstagram #wissenschaftsthriller",
+   "fb_caption": "„Und du bist die Pflanzenfrau.“ 📷\n\nDas ist Tom. Fotograf, Sprücheklopfer und der Einzige im Team, der Sofia zum Lachen bringt. Ein Magazin zahlt die Hälfte seiner Expedition. Sagt er.\n\nWisch durch und lern ihn kennen. Alles aus Kapitel 1, ohne Spoiler.\n\nWie es mit Tom und Sofia im Amazonas weitergeht, liest du in meinem Thriller Stille Quelle. Als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#stillequelle #buchcharaktere #thriller #bookstagram #wissenschaftsthriller",
+   "status": "gepostet",
+   "fb_post_id": "1475942118931806_122109356721533395",
+   "fb_posted_at": "2026-11-12T12:45:34+01:00",
+   "ig_post_id": "18114758819145930",
+   "ig_posted_at": "2026-11-12T19:50:20+01:00"
+  },
+  {
+   "id": "2026-11-12-story",
+   "date": "2026-11-12",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-12/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "ig_post_id": "18125999260991527",
+   "ig_posted_at": "2026-11-12T19:50:20+01:00"
+  },
+  {
+   "id": "2026-11-13-feed",
+   "date": "2026-11-13",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-13/reel.mp4"
+   ],
+   "caption": "Amazonas. Berlin. Heidelberg. 🌿\n\nDrei Orte. Ein Virus. Und eine einzige Pflanze, die alles ändern könnte.\n\nIm Amazonas beginnt es. In der Charité kommt es an. Und in Heidelberg liegt die Antwort. Mehr verrate ich nicht.\n\nKennst du einen der drei Orte? Schreib's in die Kommentare.\nWenn du wissen willst, wie alles zusammenhängt: Hol dir meinen Thriller Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#stillequelle #thriller #heidelberg #berlin #amazonas",
+   "fb_caption": "Amazonas. Berlin. Heidelberg. 🌿\n\nDrei Orte. Ein Virus. Und eine einzige Pflanze, die alles ändern könnte.\n\nIm Amazonas beginnt es. In der Charité kommt es an. Und in Heidelberg liegt die Antwort. Mehr verrate ich nicht.\n\nKennst du einen der drei Orte? Schreib's in die Kommentare.\nWenn du wissen willst, wie alles zusammenhängt: Hol dir meinen Thriller Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#stillequelle #thriller #heidelberg #berlin #amazonas",
+   "status": "gepostet",
+   "fb_image": "sq/posts/2026-11-13/fb.jpg",
+   "fb_post_id": "1475942118931806_122109790221533395",
+   "fb_posted_at": "2026-11-13T12:45:40+01:00",
+   "ig_post_id": "18123592520000615",
+   "ig_posted_at": "2026-11-13T19:50:30+01:00"
+  },
+  {
+   "id": "2026-11-13-story",
+   "date": "2026-11-13",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-13/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "ig_post_id": "18381454573242152",
+   "ig_posted_at": "2026-11-13T19:50:30+01:00"
+  },
+  {
+   "id": "2026-11-14-feed",
+   "date": "2026-11-14",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-14/reel.mp4"
+   ],
+   "caption": "Eine giftige Gartenblume. Ein Herzmittel. 🌿\n\nWahr oder erfunden? Wahr. Aus dem Fingerhut stammen die Herzmittel Digitoxin und Digoxin. 1785 beschrieb der englische Arzt William Withering, wie die Pflanze bei Herzschwäche wirkt. Der Hinweis stammte aus einem alten Familienrezept gegen Wassersucht.\n\nAber Vorsicht: Fingerhut ist hochgiftig. Schon kleine Mengen können lebensgefährlich sein.\n\nZwischen Gift und Heilmittel liegt oft nur die Dosis. Davon handelt mein Thriller Stille Quelle: ein Virus aus dem Amazonas und eine Pflanze, die alles ändern könnte.\n\nHättest du es gewusst? Schreib ja oder nein in die Kommentare.\nStille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #fingerhut #stillequelle #wissenschaft",
+   "fb_caption": "Eine giftige Gartenblume. Ein Herzmittel. 🌿\n\nWahr oder erfunden? Wahr. Aus dem Fingerhut stammen die Herzmittel Digitoxin und Digoxin. 1785 beschrieb der englische Arzt William Withering, wie die Pflanze bei Herzschwäche wirkt. Der Hinweis stammte aus einem alten Familienrezept gegen Wassersucht.\n\nAber Vorsicht: Fingerhut ist hochgiftig. Schon kleine Mengen können lebensgefährlich sein.\n\nZwischen Gift und Heilmittel liegt oft nur die Dosis. Davon handelt mein Thriller Stille Quelle: ein Virus aus dem Amazonas und eine Pflanze, die alles ändern könnte.\n\nHättest du es gewusst? Schreib ja oder nein in die Kommentare.\nStille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #fingerhut #stillequelle #wissenschaft",
+   "status": "gepostet",
+   "fb_image": "sq/posts/2026-11-14/fb.jpg",
+   "fb_post_id": "1475942118931806_122110178943533395",
+   "fb_posted_at": "2026-11-14T12:45:25+01:00",
+   "ig_post_id": "18234911317332223",
+   "ig_posted_at": "2026-11-14T19:50:20+01:00"
+  },
+  {
+   "id": "2026-11-14-story",
+   "date": "2026-11-14",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-14/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "ig_post_id": "18100544225440799",
+   "ig_posted_at": "2026-11-14T19:50:20+01:00"
+  },
+  {
+   "id": "2026-11-15-feed",
+   "date": "2026-11-15",
+   "kind": "feed",
+   "type": "image",
+   "files": [
+    "sq/posts/2026-11-15/feed.jpg"
+   ],
+   "caption": "Sonntag. Zeit für die ersten Seiten. ☕\n\nSofia hat den perfekten Verlobten und ein ruhiges Leben in Heidelberg. Dann geht es in den Amazonas. Und nichts bleibt, wie es war.\n\nLies den Anfang von Stille Quelle gratis in der Leseprobe bei Amazon. Wenn er dich packt, hol dir das ganze Buch als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#leseprobe #sonntagslektuere #thriller #stillequelle #lesetipp",
+   "fb_caption": "Sonntag. Zeit für die ersten Seiten. ☕\n\nSofia hat den perfekten Verlobten und ein ruhiges Leben in Heidelberg. Dann geht es in den Amazonas. Und nichts bleibt, wie es war.\n\nLies den Anfang von Stille Quelle gratis in der Leseprobe bei Amazon. Wenn er dich packt, hol dir das ganze Buch als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#leseprobe #sonntagslektuere #thriller #stillequelle #lesetipp",
+   "status": "gepostet",
+   "fb_image": "sq/posts/2026-11-15/fb.jpg",
+   "fb_post_id": "1475942118931806_122110549413533395",
+   "fb_posted_at": "2026-11-15T12:45:33+01:00",
+   "ig_post_id": "17877575283593745",
+   "ig_posted_at": "2026-11-15T19:49:49+01:00"
+  },
+  {
+   "id": "2026-11-15-story",
+   "date": "2026-11-15",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-15/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "ig_post_id": "18109554262981418",
+   "ig_posted_at": "2026-11-15T19:49:49+01:00"
+  },
+  {
+   "id": "2026-11-16-feed",
+   "date": "2026-11-16",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-16/reel.mp4"
+   ],
+   "caption": "Ein Nadelbaum. Und in seiner Rinde ein Wirkstoff gegen Krebs. 🌲\n\nWahr oder erfunden? Wahr. Paclitaxel wurde in der Rinde der Pazifischen Eibe entdeckt und gehört heute zu den wichtigsten Krebsmedikamenten.\n\nWir wissen nur von einem Bruchteil aller Pflanzen, was sie können. Was, wenn die nächste Rettung noch unentdeckt wächst? Genau diese Frage treibt meinen Thriller Stille Quelle an. Echte Biologie, ein Virus aus dem Amazonas und eine Pflanze, die niemand beachtet.\n\nHättest du es gewusst? Schreib 🌲 in die Kommentare, wenn ja.\nUnd wenn du die Geschichte dazu lesen willst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild & Stimme: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #biologie #stillequelle #wissenschaft",
+   "fb_caption": "Ein Nadelbaum. Und in seiner Rinde ein Wirkstoff gegen Krebs. 🌲\n\nWahr oder erfunden? Wahr. Paclitaxel wurde in der Rinde der Pazifischen Eibe entdeckt und gehört heute zu den wichtigsten Krebsmedikamenten.\n\nWir wissen nur von einem Bruchteil aller Pflanzen, was sie können. Was, wenn die nächste Rettung noch unentdeckt wächst? Genau diese Frage treibt meinen Thriller Stille Quelle an. Echte Biologie, ein Virus aus dem Amazonas und eine Pflanze, die niemand beachtet.\n\nHättest du es gewusst? Schreib 🌲 in die Kommentare, wenn ja.\nUnd wenn du die Geschichte dazu lesen willst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #heilpflanzen #biologie #stillequelle #wissenschaft",
+   "status": "gepostet",
+   "fb_image": "sq/posts/2026-11-16/fb.jpg",
+   "manychat": false,
+   "fb_post_id": "1475942118931806_122110870131533395",
+   "fb_posted_at": "2026-11-16T12:46:34+01:00",
+   "voiceover": true,
+   "voice_script": "Ein Krebsmedikament aus einem Nadelbaum. Klingt erfunden. Ist es aber nicht. Paclitaxel wurde in der Rinde der Pazifischen Eibe entdeckt. Heute rettet es Leben. Was wächst da draußen noch, das niemand kennt? Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "wald_atmo.mp3",
+    "herzschlag.mp3"
+   ],
+   "ig_post_id": "18122468062953938",
+   "ig_posted_at": "2026-11-16T19:57:42+01:00"
+  },
+  {
+   "id": "2026-11-16-story",
+   "date": "2026-11-16",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-16/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "manychat": false,
+   "ig_post_id": "18098192690149286",
+   "ig_posted_at": "2026-11-16T19:58:06+01:00"
+  },
+  {
+   "id": "2026-11-17-feed",
+   "date": "2026-11-17",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-17/reel.mp4"
+   ],
+   "caption": "Im Meer gibt es mehr Viren als Sterne im Universum. 🦠✨\n\nWahr. Forscher schätzen, dass es allein in den Ozeanen rund zehn Millionen Mal mehr Viren gibt als Sterne im All. Die allermeisten befallen Bakterien, nicht uns.\n\nEin paar davon tun es doch. Und genau so eins steht im Mittelpunkt meines Thrillers Stille Quelle: ein Virus aus dem Amazonas, geschrieben von einem Biologen, der weiß, wovon er spricht.\n\nHättest du es gewusst? Schreib 🦠 in die Kommentare, wenn ja.\nLust auf die Geschichte? Stille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nLink in der Bio.\n\n(Bild & Stimme: KI-generiert)\n\n#wahroderfalsch #viren #wissenschaft #stillequelle #thriller",
+   "fb_caption": "Im Meer gibt es mehr Viren als Sterne im Universum. 🦠✨\n\nWahr. Forscher schätzen, dass es allein in den Ozeanen rund zehn Millionen Mal mehr Viren gibt als Sterne im All. Die allermeisten befallen Bakterien, nicht uns.\n\nEin paar davon tun es doch. Und genau so eins steht im Mittelpunkt meines Thrillers Stille Quelle: ein Virus aus dem Amazonas, geschrieben von einem Biologen, der weiß, wovon er spricht.\n\nHättest du es gewusst? Schreib 🦠 in die Kommentare, wenn ja.\nLust auf die Geschichte? Stille Quelle gibt's als E-Book, Taschenbuch und Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#wahroderfalsch #viren #wissenschaft #stillequelle #thriller",
+   "status": "gepostet",
+   "fb_image": "sq/posts/2026-11-17/fb.jpg",
+   "manychat": false,
+   "voiceover": true,
+   "voice_script": "Im Meer gibt es mehr Viren als Sterne im Universum. Klingt verrückt. Ist aber wahr. Forscher schätzen: zehn Millionen Mal mehr. Die meisten befallen nur Bakterien. Aber nicht alle. Und eines davon kommt aus dem Amazonas. Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "ozean_atmo.mp3",
+    "herzschlag.mp3"
+   ],
+   "fb_post_id": "1475942118931806_122111205051533395",
+   "fb_posted_at": "2026-11-17T12:45:36+01:00",
+   "ig_post_id": "18389833657224928",
+   "ig_posted_at": "2026-11-17T19:49:17+01:00"
+  },
+  {
+   "id": "2026-11-17-story",
+   "date": "2026-11-17",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-17/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "manychat": false,
+   "ig_post_id": "18130888897856276",
+   "ig_posted_at": "2026-11-17T19:49:17+01:00"
+  },
+  {
+   "id": "2026-11-18-feed",
+   "date": "2026-11-18",
+   "kind": "feed",
+   "type": "carousel",
+   "files": [
+    "sq/posts/2026-11-18/slide_01.jpg",
+    "sq/posts/2026-11-18/slide_02.jpg",
+    "sq/posts/2026-11-18/slide_03.jpg",
+    "sq/posts/2026-11-18/slide_04.jpg",
+    "sq/posts/2026-11-18/slide_05.jpg",
+    "sq/posts/2026-11-18/slide_06.jpg",
+    "sq/posts/2026-11-18/slide_07.jpg"
+   ],
+   "caption": "Ein Satz im Kopf. Monate später ein Buch in der Hand. 📖\n\nSo ist Stille Quelle entstanden: von der ersten Frage über das Konzept und das Lektorat bis zum Probedruck. Und jetzt kommt das Hardcover dazu.\n\nWelche Folie überrascht dich? Schreib's mir.\n\nWenn du wissen willst, was aus dem einen Satz geworden ist: Mein Thriller wartet als E-Book, Taschenbuch oder Hardcover auf dich.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#autorenleben #selfpublishing #schreiben #stillequelle #bookstagram",
+   "fb_caption": "Ein Satz im Kopf. Monate später ein Buch in der Hand. 📖\n\nSo ist Stille Quelle entstanden: von der ersten Frage über das Konzept und das Lektorat bis zum Probedruck. Und jetzt kommt das Hardcover dazu.\n\nWelche Folie überrascht dich? Schreib's mir.\n\nWenn du wissen willst, was aus dem einen Satz geworden ist: Mein Thriller wartet als E-Book, Taschenbuch oder Hardcover auf dich.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#autorenleben #selfpublishing #schreiben #stillequelle #bookstagram",
+   "status": "gepostet",
+   "manychat": false,
+   "fb_image": "sq/posts/2026-11-18/fb.jpg",
+   "fb_post_id": "1475942118931806_122111654031533395",
+   "fb_posted_at": "2026-11-18T12:45:38+01:00",
+   "ig_error": "2026-11-18 create_carousel_post: \"Only photo or video can be accepted as media type.\" (jsDelivr-URLs @5394f30); Retry blockiert → von Timo manuell gepostet",
+   "ig_post_id": "manuell",
+   "ig_posted_at": "2026-11-18T19:56:31+01:00"
+  },
+  {
+   "id": "2026-11-18-story",
+   "date": "2026-11-18",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-18/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "manychat": false,
+   "ig_error": "2026-11-18 create_story: \"The requested resource does not exist\" (jsDelivr-URL @5394f30) → von Timo manuell gepostet",
+   "ig_post_id": "manuell",
+   "ig_posted_at": "2026-11-18T19:56:31+01:00"
+  },
+  {
+   "id": "2026-11-19-feed",
+   "date": "2026-11-19",
+   "kind": "feed",
+   "type": "carousel",
+   "files": [
+    "sq/posts/2026-11-19/slide_01.jpg",
+    "sq/posts/2026-11-19/slide_02.jpg",
+    "sq/posts/2026-11-19/slide_03.jpg",
+    "sq/posts/2026-11-19/slide_04.jpg",
+    "sq/posts/2026-11-19/slide_05.jpg",
+    "sq/posts/2026-11-19/slide_06.jpg"
+   ],
+   "caption": "Darf man eine Pflanze aus dem Amazonas einfach mitnehmen? 🌿\n\nKurz: nein. Seit 2014 regelt das Nagoya-Protokoll, wer genetische Ressourcen nutzen darf und wer am Gewinn beteiligt wird. Brasilien hat dafür sogar ein eigenes Gesetz. Wer es ignoriert, betreibt Biopiraterie.\n\nAls Biologe finde ich das Thema spannend. Als Autor noch mehr. Denn in Stille Quelle nimmt eine Botanikerin genau so eine Pflanze mit. Und dann bricht ein Virus aus.\n\nSpeicher dir den Post, wenn du was gelernt hast.\nWie es weitergeht, liest du in meinem Thriller. Als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#biopiraterie #amazonas #biologie #stillequelle #wissenschaftsthriller",
+   "fb_caption": "Darf man eine Pflanze aus dem Amazonas einfach mitnehmen? 🌿\n\nKurz: nein. Seit 2014 regelt das Nagoya-Protokoll, wer genetische Ressourcen nutzen darf und wer am Gewinn beteiligt wird. Brasilien hat dafür sogar ein eigenes Gesetz. Wer es ignoriert, betreibt Biopiraterie.\n\nAls Biologe finde ich das Thema spannend. Als Autor noch mehr. Denn in Stille Quelle nimmt eine Botanikerin genau so eine Pflanze mit. Und dann bricht ein Virus aus.\n\nSpeicher dir den Post, wenn du was gelernt hast.\nWie es weitergeht, liest du in meinem Thriller. Als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#biopiraterie #amazonas #biologie #stillequelle #wissenschaftsthriller",
+   "status": "gepostet",
+   "manychat": false,
+   "fb_image": "sq/posts/2026-11-19/fb.jpg",
+   "fb_post_id": "1475942118931806_122111958891533395",
+   "fb_posted_at": "2026-11-19T12:46:04+01:00",
+   "ig_post_id": "17979992603932703",
+   "ig_posted_at": "2026-11-19T19:50:48+01:00"
+  },
+  {
+   "id": "2026-11-19-story",
+   "date": "2026-11-19",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-19/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "manychat": false,
+   "ig_post_id": "18439760059195119",
+   "ig_posted_at": "2026-11-19T19:50:48+01:00"
+  },
+  {
+   "id": "2026-11-20-feed",
+   "date": "2026-11-20",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-20/reel.mp4"
+   ],
+   "caption": "Es ist da. Stille Quelle als Hardcover. 📚\n\nFester Einband, gleiche Geschichte: eine Botanikerin, eine unscheinbare Pflanze, ein Virus aus dem Amazonas und eine Lüge, die jemand um jeden Preis verbergen will.\n\nFürs eigene Regal oder als Geschenk für alle, die Thriller mit echter Wissenschaft mögen. Hol dir Stille Quelle jetzt als Hardcover, Taschenbuch oder E-Book.\n\nKommentiere QUELLE, und ich schick dir den Link.\n\n(Bild & Stimme: KI-generiert)\n\n#hardcover #neuerscheinung #thriller #stillequelle #buchgeschenk",
+   "fb_caption": "Es ist da. Stille Quelle als Hardcover. 📚\n\nFester Einband, gleiche Geschichte: eine Botanikerin, eine unscheinbare Pflanze, ein Virus aus dem Amazonas und eine Lüge, die jemand um jeden Preis verbergen will.\n\nFürs eigene Regal oder als Geschenk für alle, die Thriller mit echter Wissenschaft mögen. Hol dir Stille Quelle jetzt als Hardcover, Taschenbuch oder E-Book.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#hardcover #neuerscheinung #thriller #stillequelle #buchgeschenk",
+   "status": "gepostet",
+   "fb_image": "sq/posts/2026-11-20/fb.jpg",
+   "manychat": true,
+   "voiceover": true,
+   "voice_script": "Es ist da. Stille Quelle als Hardcover. Eine Botanikerin. Eine unscheinbare Pflanze. Ein Virus aus dem Amazonas. Und eine Lüge, die jemand um jeden Preis verbergen will. Fürs eigene Regal oder als Geschenk. Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "wald_atmo.mp3",
+    "buch.mp3",
+    "herzschlag.mp3"
+   ],
+   "fb_post_id": "1475942118931806_122111645793533395",
+   "fb_manual": true,
+   "ig_post_id": "17964255603252810",
+   "ig_posted_at": "2026-11-20T19:27:27+01:00"
+  },
+  {
+   "id": "2026-11-20-story",
+   "date": "2026-11-20",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-20/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "manychat": false,
+   "ig_post_id": "18127943533910410",
+   "ig_posted_at": "2026-11-20T19:27:27+01:00"
+  },
+  {
+   "id": "2026-11-21-feed",
+   "date": "2026-11-21",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-21/reel.mp4"
+   ],
+   "caption": "In diesem Labor atmest du keine Raumluft. 🧪\n\nSchutzstufe 4 ist die höchste Sicherheitsstufe für Labore. Wer dort arbeitet, trägt einen Vollschutzanzug mit eigener Luftzufuhr. Dazu kommen Unterdruck, Schleusen und eine Chemiedusche beim Rausgehen. In Berlin betreibt das Robert Koch-Institut seit 2018 so ein Labor, unter anderem für Ebola- und Lassaviren.\n\nBerlin ist auch ein Schauplatz in meinem Thriller Stille Quelle. Ein unbekanntes Virus aus dem Amazonas, eine Botanikerin aus Heidelberg und eine Pflanze, die niemand beachtet. Echte Wissenschaft, geschrieben von einem Biologen.\n\nWürdest du da reingehen? Schreib 🧪 für ja oder 🚪 für nein.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nLink in der Bio.\n\n(Bild & Stimme: KI-generiert)\n\n#virologie #labor #berlin #stillequelle #wissenschaftsthriller",
+   "fb_caption": "In diesem Labor atmest du keine Raumluft. 🧪\n\nSchutzstufe 4 ist die höchste Sicherheitsstufe für Labore. Wer dort arbeitet, trägt einen Vollschutzanzug mit eigener Luftzufuhr. Dazu kommen Unterdruck, Schleusen und eine Chemiedusche beim Rausgehen. In Berlin betreibt das Robert Koch-Institut seit 2018 so ein Labor, unter anderem für Ebola- und Lassaviren.\n\nBerlin ist auch ein Schauplatz in meinem Thriller Stille Quelle. Ein unbekanntes Virus aus dem Amazonas, eine Botanikerin aus Heidelberg und eine Pflanze, die niemand beachtet. Echte Wissenschaft, geschrieben von einem Biologen.\n\nWürdest du da reingehen? Schreib 🧪 für ja oder 🚪 für nein.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#virologie #labor #berlin #stillequelle #wissenschaftsthriller",
+   "status": "freigegeben",
+   "fb_image": "sq/posts/2026-11-21/fb.jpg",
+   "manychat": false,
+   "voiceover": true,
+   "voice_script": "In diesem Labor atmest du keine Raumluft. Schutzstufe vier, die höchste Sicherheitsstufe überhaupt. Vollschutzanzug, eigene Luftzufuhr, Unterdruck, Chemiedusche. In Berlin wird so an Ebola- und Lassaviren geforscht. Und Berlin ist ein Schauplatz dieses Thrillers. Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "labor_atmo.mp3",
+    "herzschlag.mp3"
+   ],
+   "fb_manual": true,
+   "ig_post_id": "17899595511413483",
+   "ig_posted_at": "2026-11-21T19:27:04+01:00"
+  },
+  {
+   "id": "2026-11-21-story",
+   "date": "2026-11-21",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-21/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "manychat": false,
+   "ig_post_id": "17959143300274982",
+   "ig_posted_at": "2026-11-21T19:27:04+01:00"
+  },
+  {
+   "id": "2026-11-22-feed",
+   "date": "2026-11-22",
+   "kind": "feed",
+   "type": "image",
+   "files": [
+    "sq/posts/2026-11-22/feed.jpg"
+   ],
+   "caption": "Noch eine Geschenkidee gesucht? 🎁\n\nFür alle, die Thriller lieben und dabei gern etwas dazulernen: Stille Quelle als Hardcover. Ein Virus aus dem Amazonas, eine Pflanze, die niemand beachtet, und echte Wissenschaft von einem Biologen.\n\nMein Thriller passt unter jeden Baum. Oder gleich auf deinen Nachttisch.\nHol dir Stille Quelle als Hardcover, Taschenbuch oder E-Book.\n\nLink in der Bio.\n\n(Bild: KI-generiert)\n\n#buchgeschenk #weihnachtsgeschenk #thriller #stillequelle #lesetipp",
+   "fb_caption": "Noch eine Geschenkidee gesucht? 🎁\n\nFür alle, die Thriller lieben und dabei gern etwas dazulernen: Stille Quelle als Hardcover. Ein Virus aus dem Amazonas, eine Pflanze, die niemand beachtet, und echte Wissenschaft von einem Biologen.\n\nMein Thriller passt unter jeden Baum. Oder gleich auf deinen Nachttisch.\nHol dir Stille Quelle als Hardcover, Taschenbuch oder E-Book.\n\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n(Bild: KI-generiert)\n\n#buchgeschenk #weihnachtsgeschenk #thriller #stillequelle #lesetipp",
+   "status": "gepostet",
+   "manychat": false,
+   "fb_post_id": "1475942118931806_122112967755533395",
+   "fb_posted_at": "2026-11-22T12:45:30+01:00",
+   "ig_post_id": "18122085619760773",
+   "ig_posted_at": "2026-11-22T19:26:52+01:00"
+  },
+  {
+   "id": "2026-11-22-story",
+   "date": "2026-11-22",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-22/story.jpg"
+   ],
+   "caption": "",
+   "status": "gepostet",
+   "manychat": false,
+   "ig_post_id": "18115112255523587",
+   "ig_posted_at": "2026-11-22T19:26:52+01:00"
+  },
+  {
+   "id": "2026-11-23-feed",
+   "date": "2026-11-23",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-23/reel.mp4"
+   ],
+   "caption": "Antibiotika gegen Grippe? Viele schwören drauf. 🦠\n\nWahr oder erfunden? Erfunden. Antibiotika wirken gegen Bakterien. Grippe und die meisten Erkältungen lösen Viren aus, und denen können Antibiotika nichts anhaben.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: ein unbekanntes Virus aus dem Amazonas, eine unscheinbare Pflanze und eine Lüge. Echte Wissenschaft, geschrieben von einem Biologen.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nUnd am Donnerstag gibt es eine Überraschung. 👀\n\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#wahroderfalsch #antibiotika #viren #stillequelle #wissenschaft",
+   "fb_caption": "Antibiotika gegen Grippe? Viele schwören drauf. 🦠\n\nWahr oder erfunden? Erfunden. Antibiotika wirken gegen Bakterien. Grippe und die meisten Erkältungen lösen Viren aus, und denen können Antibiotika nichts anhaben.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: ein unbekanntes Virus aus dem Amazonas, eine unscheinbare Pflanze und eine Lüge. Echte Wissenschaft, geschrieben von einem Biologen.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nUnd am Donnerstag gibt es eine Überraschung. 👀\n\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wahroderfalsch #antibiotika #viren #stillequelle #wissenschaft",
+   "manychat": false,
+   "voiceover": true,
+   "voice_script": "Antibiotika helfen gegen Grippe und Erkältung. Wahr oder erfunden? Was meinst du? Erfunden. Antibiotika wirken nur gegen Bakterien. Viren bieten ihnen keinen Angriffspunkt. Was alle glauben, muss nicht stimmen. Genau darum geht es in diesem Thriller. Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "herzschlag.mp3"
+   ],
+   "wahr_oder_erfunden": "erfunden",
+   "status": "freigegeben",
+   "fb_manual": true,
+   "ig_post_id": "18101981678451228",
+   "ig_posted_at": "2026-11-23T19:27:48+01:00"
+  },
+  {
+   "id": "2026-11-23-story",
+   "date": "2026-11-23",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-23/story.jpg"
+   ],
+   "caption": "",
+   "manychat": false,
+   "voiceover": false,
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "gepostet",
+   "ig_post_id": "18124397779948062",
+   "ig_posted_at": "2026-11-23T19:27:48+01:00"
+  },
+  {
+   "id": "2026-11-24-feed",
+   "date": "2026-11-24",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-24/reel.mp4"
+   ],
+   "caption": "Diese Pflanze hat Spritzen. Aus Glas. 🌿\n\nWahr oder erfunden? Wahr. Die Spitze jedes Brennhaars der Brennnessel ist verkieselt, sie besteht aus Siliziumdioxid, dem Hauptbestandteil von Glas. Bei Berührung bricht sie ab, und das Haar spritzt wie eine Kanüle Reizstoffe wie Histamin in die Haut.\n\nUnscheinbare Pflanzen können mehr, als man denkt. Davon handelt mein Thriller Stille Quelle: Ein Virus aus dem Amazonas, und die Rettung wächst da, wo niemand hinschaut.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#wahroderfalsch #brennnessel #botanik #stillequelle #biologie",
+   "fb_caption": "Diese Pflanze hat Spritzen. Aus Glas. 🌿\n\nWahr oder erfunden? Wahr. Die Spitze jedes Brennhaars der Brennnessel ist verkieselt, sie besteht aus Siliziumdioxid, dem Hauptbestandteil von Glas. Bei Berührung bricht sie ab, und das Haar spritzt wie eine Kanüle Reizstoffe wie Histamin in die Haut.\n\nUnscheinbare Pflanzen können mehr, als man denkt. Davon handelt mein Thriller Stille Quelle: Ein Virus aus dem Amazonas, und die Rettung wächst da, wo niemand hinschaut.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\nHol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wahroderfalsch #brennnessel #botanik #stillequelle #biologie",
+   "manychat": false,
+   "voiceover": true,
+   "voice_script": "Diese Pflanze hat Spritzen. Aus Glas. Was meinst du? Wahr. Die Brennhaare der Brennnessel haben eine Spitze aus Kieselsäure. Bei Berührung bricht sie ab. Wie eine Kanüle spritzt sie Reizstoffe in die Haut. Unterschätz nie eine unscheinbare Pflanze. Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "glas_klirren.mp3",
+    "herzschlag.mp3"
+   ],
+   "wahr_oder_erfunden": "wahr",
+   "status": "freigegeben",
+   "fb_manual": true
+  },
+  {
+   "id": "2026-11-24-story",
+   "date": "2026-11-24",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-24/story.jpg"
+   ],
+   "caption": "",
+   "manychat": false,
+   "voiceover": false,
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-25-feed",
+   "date": "2026-11-25",
+   "kind": "feed",
+   "type": "carousel",
+   "files": [
+    "sq/posts/2026-11-25/slide_01.jpg",
+    "sq/posts/2026-11-25/slide_02.jpg",
+    "sq/posts/2026-11-25/slide_03.jpg",
+    "sq/posts/2026-11-25/slide_04.jpg",
+    "sq/posts/2026-11-25/slide_05.jpg",
+    "sq/posts/2026-11-25/slide_06.jpg"
+   ],
+   "caption": "Kann ein Virus aus dem Regenwald wirklich bis zu uns kommen? 🌿\n\nIhr habt gefragt, ich antworte. Als Biologe und als Autor. Wisch durch: vier Fragen zu meinem Thriller Stille Quelle.\n\nWelche Frage soll ich als Nächstes beantworten? Schreib sie in die Kommentare.\nUnd morgen gibt es eine Überraschung. 👀\n\nWenn du die Antworten lieber selbst entdeckst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#wissenschaft #biologie #fragenundantworten #stillequelle #thriller",
+   "fb_caption": "Kann ein Virus aus dem Regenwald wirklich bis zu uns kommen? 🌿\n\nIhr habt gefragt, ich antworte. Als Biologe und als Autor. Vier Fragen zu meinem Thriller Stille Quelle.\n\nWelche Frage soll ich als Nächstes beantworten? Schreib sie in die Kommentare.\nUnd morgen gibt es eine Überraschung. 👀\n\nWenn du die Antworten lieber selbst entdeckst: Hol dir Stille Quelle als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wissenschaft #biologie #fragenundantworten #stillequelle #thriller",
+   "manychat": false,
+   "voiceover": false,
+   "voice_script": "",
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben",
+   "fb_image": "sq/posts/2026-11-25/fb.jpg"
+  },
+  {
+   "id": "2026-11-25-story",
+   "date": "2026-11-25",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-25/story.jpg"
+   ],
+   "caption": "",
+   "manychat": false,
+   "voiceover": false,
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-26-feed",
+   "date": "2026-11-26",
+   "kind": "feed",
+   "type": "image",
+   "files": [
+    "sq/posts/2026-11-26/feed.jpg"
+   ],
+   "caption": "Nur bis Sonntag: Stille Quelle als E-Book gratis. 🌿\n\nEin Virus aus dem Amazonas. Eine Pflanze, die niemand beachtet. Eine Lüge, die alles zerstören kann. Mein Thriller, geschrieben von einem Biologen, mit echter Wissenschaft dahinter.\n\nHol dir das E-Book jetzt kostenlos, bevor die Aktion am Sonntag endet.\nKommentiere QUELLE, und ich schick dir den Link. Und teil den Post mit jemandem, der Thriller liebt.\n\n#gratisebook #kindle #thriller #stillequelle #lesetipp",
+   "fb_caption": "Nur bis Sonntag: Stille Quelle als E-Book gratis. 🌿\n\nEin Virus aus dem Amazonas. Eine Pflanze, die niemand beachtet. Eine Lüge, die alles zerstören kann. Mein Thriller, geschrieben von einem Biologen, mit echter Wissenschaft dahinter.\n\nHol dir das E-Book jetzt kostenlos, bevor die Aktion am Sonntag endet.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB Und teil den Post mit jemandem, der Thriller liebt.\n\n#gratisebook #kindle #thriller #stillequelle #lesetipp",
+   "manychat": true,
+   "voiceover": false,
+   "voice_script": "",
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-26-story",
+   "date": "2026-11-26",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-26/story.jpg"
+   ],
+   "caption": "",
+   "manychat": false,
+   "voiceover": false,
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-27-feed",
+   "date": "2026-11-27",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-27/reel.mp4"
+   ],
+   "caption": "Ein Forscherteam im Amazonas. Einer von ihnen bringt ein Virus mit. 🦠\n\nSo beginnt es in meinem Thriller Stille Quelle. Wenige Wochen später ist das Virus auf allen Kontinenten. Und die Rettung? Eine unscheinbare Pflanze, an der jeder vorbeiläuft. Dazu eine Lüge, die jemand um jeden Preis verbergen will.\n\nIch bin Biologe. Darum steckt in dieser Geschichte so viel echte Wissenschaft.\n\nNur noch bis Sonntag ist das E-Book gratis. Hol dir Stille Quelle jetzt, als E-Book, Taschenbuch oder Hardcover.\nLink in der Bio.\n\n#stillequelle #thriller #amazonas #wissenschaftsthriller #gratisebook",
+   "fb_caption": "Ein Forscherteam im Amazonas. Einer von ihnen bringt ein Virus mit. 🦠\n\nSo beginnt es in meinem Thriller Stille Quelle. Wenige Wochen später ist das Virus auf allen Kontinenten. Und die Rettung? Eine unscheinbare Pflanze, an der jeder vorbeiläuft. Dazu eine Lüge, die jemand um jeden Preis verbergen will.\n\nIch bin Biologe. Darum steckt in dieser Geschichte so viel echte Wissenschaft.\n\nNur noch bis Sonntag ist das E-Book gratis. Hol dir Stille Quelle jetzt, als E-Book, Taschenbuch oder Hardcover.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#stillequelle #thriller #amazonas #wissenschaftsthriller #gratisebook",
+   "manychat": false,
+   "voiceover": true,
+   "voice_script": "Ein Forscherteam im Amazonas. Einer von ihnen infiziert sich mit einem unbekannten Virus. Wenige Wochen später ist es auf allen Kontinenten. Und die Rettung? Eine unscheinbare Pflanze, an der jeder vorbeiläuft. Geschrieben von einem Biologen. Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "regenwald_voegel.mp3",
+    "herzschlag.mp3"
+   ],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-27-story",
+   "date": "2026-11-27",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-27/story.jpg"
+   ],
+   "caption": "",
+   "manychat": false,
+   "voiceover": false,
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-28-feed",
+   "date": "2026-11-28",
+   "kind": "feed",
+   "type": "carousel",
+   "files": [
+    "sq/posts/2026-11-28/slide_01.jpg",
+    "sq/posts/2026-11-28/slide_02.jpg",
+    "sq/posts/2026-11-28/slide_03.jpg",
+    "sq/posts/2026-11-28/slide_04.jpg",
+    "sq/posts/2026-11-28/slide_05.jpg",
+    "sq/posts/2026-11-28/slide_06.jpg"
+   ],
+   "caption": "Die Lunge der Welt? Stimmt so nicht ganz. 🌳\n\nDer Amazonas ist der Ort, an dem mein Thriller Stille Quelle beginnt. Wisch durch: vier Fakten über den größten Regenwald der Erde. Nummer drei überrascht fast alle.\n\nSpeicher dir den Post für später.\nDas E-Book ist nur noch bis morgen gratis, Taschenbuch und Hardcover gibt's jederzeit. Hol dir Stille Quelle.\nLink in der Bio.\n\n#amazonas #regenwald #biologie #stillequelle #wissenschaftsthriller",
+   "fb_caption": "Die Lunge der Welt? Stimmt so nicht ganz. 🌳\n\nDer Amazonas ist der Ort, an dem mein Thriller Stille Quelle beginnt. Vier Fakten über den größten Regenwald der Erde. Nummer drei überrascht fast alle.\n\nDas E-Book ist nur noch bis morgen gratis, Taschenbuch und Hardcover gibt's jederzeit. Hol dir Stille Quelle.\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#amazonas #regenwald #biologie #stillequelle #wissenschaftsthriller",
+   "manychat": false,
+   "voiceover": false,
+   "voice_script": "",
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben",
+   "fb_image": "sq/posts/2026-11-28/fb.jpg"
+  },
+  {
+   "id": "2026-11-28-story",
+   "date": "2026-11-28",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-28/story.jpg"
+   ],
+   "caption": "",
+   "manychat": false,
+   "voiceover": false,
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-29-feed",
+   "date": "2026-11-29",
+   "kind": "feed",
+   "type": "reel",
+   "files": [
+    "sq/posts/2026-11-29/reel.mp4"
+   ],
+   "caption": "Pflanzen im Schlafzimmer rauben dir nachts den Sauerstoff? 🌿\n\nWahr oder erfunden? Erfunden. Pflanzen atmen zwar auch nachts, aber ihr Verbrauch ist winzig, verglichen mit dem eines schlafenden Menschen.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: um eine Lüge.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\n\nHeute ist der letzte Tag: Hol dir Stille Quelle noch gratis als E-Book.\nUnd an alle, die es schon gelesen haben: Eine kurze Rezension auf Amazon hilft mir als neuem Autor sehr. Ein Satz reicht. Danke!\nLink in der Bio.\n\n#wahroderfalsch #zimmerpflanzen #mythos #stillequelle #gratisebook",
+   "fb_caption": "Pflanzen im Schlafzimmer rauben dir nachts den Sauerstoff? 🌿\n\nWahr oder erfunden? Erfunden. Pflanzen atmen zwar auch nachts, aber ihr Verbrauch ist winzig, verglichen mit dem eines schlafenden Menschen.\n\nWas alle glauben, muss nicht stimmen. Genau darum geht es in meinem Thriller Stille Quelle: um eine Lüge.\n\nHättest du richtig getippt? Schreib wahr oder erfunden in die Kommentare.\n\nHeute ist der letzte Tag: Hol dir Stille Quelle noch gratis als E-Book.\nUnd an alle, die es schon gelesen haben: Eine kurze Rezension auf Amazon hilft mir als neuem Autor sehr. Ein Satz reicht. Danke!\nHier geht's zum Buch: https://www.amazon.de/stores/Tim-Walden/author/B0HNHYXVNB\n\n#wahroderfalsch #zimmerpflanzen #mythos #stillequelle #gratisebook",
+   "manychat": false,
+   "voiceover": true,
+   "voice_script": "Pflanzen im Schlafzimmer rauben dir nachts den Sauerstoff. Wahr oder erfunden? Erfunden. Ja, Pflanzen atmen auch nachts. Aber ihr Verbrauch ist winzig, verglichen mit deinem eigenen. Was alle glauben, muss nicht stimmen. Genau darum geht es in diesem Thriller. Stille Quelle. Jetzt auf Amazon.",
+   "sfx": [
+    "herzschlag.mp3"
+   ],
+   "wahr_oder_erfunden": "erfunden",
+   "status": "freigegeben"
+  },
+  {
+   "id": "2026-11-29-story",
+   "date": "2026-11-29",
+   "kind": "story",
+   "type": "story",
+   "files": [
+    "sq/posts/2026-11-29/story.jpg"
+   ],
+   "caption": "",
+   "manychat": false,
+   "voiceover": false,
+   "sfx": [],
+   "wahr_oder_erfunden": null,
+   "status": "freigegeben"
+  }
+ ]
 }
