@@ -499,10 +499,12 @@
       "voice_script": "",
       "sfx": [],
       "wahr_oder_erfunden": null,
-      "status": "freigegeben",
+      "status": "gepostet",
       "fb_image": "sq/posts/2026-11-25/fb.jpg",
       "fb_post_id": "1475942118931806_122113858563533395",
-      "fb_posted_at": "2026-11-25T12:45:57+01:00"
+      "fb_posted_at": "2026-11-25T12:45:57+01:00",
+      "ig_post_id": "18122053015806137",
+      "ig_posted_at": "2026-11-25T19:28:24+01:00"
     },
     {
       "id": "2026-11-25-story",
@@ -517,7 +519,9 @@
       "voiceover": false,
       "sfx": [],
       "wahr_oder_erfunden": null,
-      "status": "freigegeben"
+      "status": "gepostet",
+      "ig_post_id": "17964056637257559",
+      "ig_posted_at": "2026-11-25T19:28:24+01:00"
     },
     {
       "id": "2026-11-26-feed",
