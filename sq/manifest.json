@@ -580,7 +580,9 @@
       ],
       "wahr_oder_erfunden": null,
       "status": "freigegeben",
-      "fb_manual": true
+      "fb_manual": true,
+      "ig_post_id": "18391187134236298",
+      "ig_posted_at": "2026-11-27T19:27:58+01:00"
     },
     {
       "id": "2026-11-27-story",
@@ -595,7 +597,9 @@
       "voiceover": false,
       "sfx": [],
       "wahr_oder_erfunden": null,
-      "status": "freigegeben"
+      "status": "gepostet",
+      "ig_post_id": "18428133733154924",
+      "ig_posted_at": "2026-11-27T19:27:58+01:00"
     },
     {
       "id": "2026-11-28-feed",
