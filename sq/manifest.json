@@ -579,7 +579,8 @@
         "herzschlag.mp3"
       ],
       "wahr_oder_erfunden": null,
-      "status": "freigegeben"
+      "status": "freigegeben",
+      "fb_manual": true
     },
     {
       "id": "2026-11-27-story",
